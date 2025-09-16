@@ -1,2 +1,6 @@
 # tes-2
 para probar el git y tal
+
+## back to GIT yo!
+2025-9-16 con el tutorial
+ https://www.youtube.com/watch?v=RGOj5yH7evk&t=1170s
