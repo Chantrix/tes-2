@@ -8,4 +8,7 @@ para probar el git y tal
  ### tes-2 es muy mal nombre de carpeta
  hay que cambiarlo...creo que era con mkdir???
 
+ #### al final era con mv
+ primero nombre del antiguo despues el nuevo
+
  
