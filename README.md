@@ -11,4 +11,5 @@ para probar el git y tal
  #### al final era con mv
  primero nombre del antiguo despues el nuevo
 
- 
+#### primer git desde el ssh del pececito
+todo un hito
